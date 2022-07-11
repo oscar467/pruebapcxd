@@ -1,0 +1,16 @@
+/*p {
+  color: blue;
+  font-size: 60px;;
+}*/
+/* class */
+
+.parrafo{
+  color: coral;
+}
+
+/* id */
+
+#texto {
+  color: yellow;
+  font-size: 25px;
+}
